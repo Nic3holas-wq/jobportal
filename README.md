@@ -209,7 +209,7 @@ erDiagram
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/jobportal.git
+   git clone https://github.com/Nic3holas-wq/jobportal.git
    cd jobportal
    ```
 
@@ -247,6 +247,6 @@ Registration requires checking email/phone uniqueness and querying HaveIBeenPwne
 
 ## Author
 
-Your Name  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+Nicholas Murimi  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/muriminicholas/)  
+GitHub: [github.com/Nic3holas-wq](https://github.com/Nic3holas-wq)
