@@ -28,9 +28,9 @@ public class LoginSuccessAuditAspect {
         }
         // Only log if login is really successful
         if (loginResponse.user() != null) {
-            String username = loginResponse.user().getEmail(); // or username
-            String role = loginResponse.user().getRole();
-            log.info("✅ LOGIN SUCCESS | User: {} | Role: {}", username, role);
+//            String username = loginResponse.user().getEmail(); // or username
+//            String role = loginResponse.user().getRole();
+            log.info("✅ LOGIN SUCCESS");
         }
     }
 
